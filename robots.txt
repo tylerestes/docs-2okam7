@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-9h97yf.nottinghamshirenaturelakes.co.uk/sitemap.xml
